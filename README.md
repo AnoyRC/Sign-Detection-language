@@ -2,7 +2,7 @@
 A project to detect 3 phrases in sign language using LSTM RNN.
 
 ### Run in colab
-<a target="_blank" href="https://colab.research.google.com/github/ShambaC/Sign-Detection-language">
+<a target="_blank" href="https://colab.research.google.com/github/AnoyRC/Sign-Detection-language">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
